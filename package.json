@@ -1,5 +1,5 @@
 {
-  "name": "suite-component-library",
+  "name": "@jannnnnnnnnn/suite-component-library",
   "version": "1.0.0",
   "description": "Nextech Suite React Component Library",
    "scripts": {
@@ -22,5 +22,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/jannnnnnnnnn"
+  }
 }
