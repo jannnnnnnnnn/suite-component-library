@@ -1,5 +1,22 @@
 .header{
-    max-width: 100%;
-    min-height: 70px;
-    background: #030E31;
+    width: 100%;
+    min-height: 64px;
+    background: #212739;
+}
+
+.logo{
+    height: 26px;
+    color: #ffffff;
+    text-decoration: none !important;
+    background: no-repeat left center;
+    padding-left: 33px;
+    font-weight: 300;
+    font-size: 18px;
+    
+}
+
+.logo span {
+    font-weight: 600;
+    font-size: 18px;
+    padding-right: 5px;
 }
